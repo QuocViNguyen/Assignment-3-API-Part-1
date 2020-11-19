@@ -1,6 +1,13 @@
 
 ## Manitoba Covid Tracker API
 
+
+
+
+Cases
+Deaths
+Recoveries
+
  
 Manitoba covid case breakdown by health region
 
