@@ -1,7 +1,7 @@
 
-#### API Description
+## Manitoba Covid Tracker API
 
-## Manitoba Covid Tracker 
+ 
 Manitoba covid case breakdown by health region
 
 just some options
